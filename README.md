@@ -1,19 +1,31 @@
 # ✨ Olá, eu sou a Emily Vitória!
 
-💻 Desenvolvedora Front-End em formação.  
-🚀 Em busca da minha primeira oportunidade na área de desenvolvimento!  
+💻 Desenvolvedora Front-End em formação;  
+🚀 Em busca da minha primeira oportunidade na área de desenvolvimento!
 
 ---
 
 ## 👩🏽‍💻 Sobre mim
 Sou do Rio de Janeiro, tenho 20 anos e atuo como Analista de Monitoramento PSS TI Jr.  
-Estou em transição de carreira para o desenvolvimento front-end, estudando diariamente e criando projetos práticos para evoluir minhas habilidades.
+Sou Técnica em Telecomunicações e estou em transição de carreira para o desenvolvimento front-end, estudando diariamente e criando projetos práticos para evoluir minhas habilidades.
 
 ---
 
 ## 🎓 Formação
 - 🎓 Análise e Desenvolvimento de Sistemas – (2026 - atual | 1º semestre)
 - 💻 Desenvolvimento Web – FAETEC (em andamento)
+- 📡 Técnico em Telecomunicações (concluído)
+
+---
+
+## 🧠 Conhecimentos
+- Redes de computadores  
+- Infraestrutura de TI  
+- Redes sem fio (Wi-Fi)  
+- Sistemas digitais  
+- Microcontroladores  
+- Comunicação via satélite  
+- Monitoramento de sistemas  
 
 ---
 
