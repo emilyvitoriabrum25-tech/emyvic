@@ -1,57 +1,53 @@
-<h1 align="center">✨ Olá, eu sou a Emily Vitória! ✨</h1>
+# ✨ Olá, eu sou a Emily Vitória!
 
-<p align="center">
-  <strong>Desenvolvedora Front-End em formação • Analista de Monitoramento PSS • Apaixonada por tecnologia</strong>
+💻 Desenvolvedora Front-End em formação.  
+🚀 Em busca da minha primeira oportunidade na área de desenvolvimento!  
+
+---
+
+## 👩🏽‍💻 Sobre mim
+Sou do Rio de Janeiro, tenho 20 anos e atuo como Analista de Monitoramento PSS TI Jr.  
+Estou em transição de carreira para o desenvolvimento front-end, estudando diariamente e criando projetos práticos para evoluir minhas habilidades.
+
+---
+
+## 🎓 Formação
+- 🎓 Análise e Desenvolvimento de Sistemas – (2026 - atual | 1º semestre)
+- 💻 Desenvolvimento Web – FAETEC (em andamento)
+
+---
+
+## 🚀 Tecnologias
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
 ---
 
-## 👩🏽‍💻 Sobre mim  
-Sou do Rio de Janeiro e tenho 20 anos. Atuo como **Analista de Monitoramento PSS TI Jr** e estou em transição de carreira para o **Desenvolvimento Front-End**, estudando diariamente para construir projetos que mostrem minha evolução.
-
-🖥️ Atualmente estou estudando: **HTML5**, **CSS3** e em breve **JavaScript**.  
-🎓 Em 2026 iniciarei minha graduação em **Análise e Desenvolvimento de Sistemas (ADS)**.  
-🌱 Quero criar projetos reais e práticos para fortalecer minha base como desenvolvedora.
+## 🚀 Projetos
+Atualmente estou desenvolvendo projetos práticos para consolidar meus conhecimentos em desenvolvimento front-end.  
+Em breve, novos projetos serão adicionados aqui.
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo  
-<div style="display: flex; gap: 10px;">
-  
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
-</div>
+## 🌐 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/emily-brum-ev)
+- 📧 [Email](mailto:emilyvitoriabrum25@gmail.com)
 
 ---
 
-## 📚 Projetos de estudo  
-➡️ **Exercícios de HTML5** – Repositório dedicado às minhas práticas do Curso em Vídeo  
-🛠️ Em breve vou adicionar:  
-- Projetos simples em HTML + CSS  
-- Meu primeiro site pessoal  
-- Projetos com interatividade usando JS  
-- Mini aplicações para praticar Git e GitHub  
+## ✨ Curiosidades
+- Aprendo rápido e gosto de desafios  
+- Tenho disciplina para conciliar trabalho e estudo  
+- Gosto de trabalhar em equipe  
 
 ---
 
-## 🌐 Onde me encontrar  
-<div>
-  <a href="https://linkedin.com/in/emily-brum-ev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
----
-
-## ✨ Curiosidades  
-- Adoro aprender coisas novas rapidamente  
-- Sou organizada e consigo conciliar trabalho e estudo  
-- Amo trabalhar em equipe 💜  
-
----
-
-<p align="center">Feito com carinho por Emily Vitória 🩵</p>
+## 📩 Contato
+💼 Aberta a oportunidades como Desenvolvedora Front-End Júnior
